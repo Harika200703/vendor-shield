@@ -1,0 +1,26 @@
+employee_id,name,email,role
+E0001,Employee 1,employee1@vendortrust.demo,Finance Manager
+E0002,Employee 2,employee2@vendortrust.demo,Finance Manager
+E0003,Employee 3,employee3@vendortrust.demo,Procurement Officer
+E0004,Employee 4,employee4@vendortrust.demo,AP Analyst
+E0005,Employee 5,employee5@vendortrust.demo,AP Analyst
+E0006,Employee 6,employee6@vendortrust.demo,AP Analyst
+E0007,Employee 7,employee7@vendortrust.demo,Finance Manager
+E0008,Employee 8,employee8@vendortrust.demo,Accounts Executive
+E0009,Employee 9,employee9@vendortrust.demo,Finance Manager
+E0010,Employee 10,employee10@vendortrust.demo,Accounts Executive
+E0011,Employee 11,employee11@vendortrust.demo,Finance Analyst
+E0012,Employee 12,employee12@vendortrust.demo,Finance Manager
+E0013,Employee 13,employee13@vendortrust.demo,Finance Manager
+E0014,Employee 14,employee14@vendortrust.demo,Finance Manager
+E0015,Employee 15,employee15@vendortrust.demo,AP Analyst
+E0016,Employee 16,employee16@vendortrust.demo,AP Analyst
+E0017,Employee 17,employee17@vendortrust.demo,Accounts Executive
+E0018,Employee 18,employee18@vendortrust.demo,Accounts Executive
+E0019,Employee 19,employee19@vendortrust.demo,Finance Manager
+E0020,Employee 20,employee20@vendortrust.demo,Accounts Executive
+E0021,Employee 21,employee21@vendortrust.demo,AP Analyst
+E0022,Employee 22,employee22@vendortrust.demo,Accounts Executive
+E0023,Employee 23,employee23@vendortrust.demo,Finance Analyst
+E0024,Employee 24,employee24@vendortrust.demo,AP Analyst
+E0025,Employee 25,employee25@vendortrust.demo,Finance Analyst
